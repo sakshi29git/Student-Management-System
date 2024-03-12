@@ -22,11 +22,11 @@ Follow the on-screen instructions to interact with the Student Management System
 
 Menu Options:
 Upon running the program, you will be presented with a menu containing the following options:
-Add
-Update
-Delete
-All Details
-Exit
+1. Add
+2. Update
+3. Delete
+4. All Details
+5. Exit
 
 Choose the desired option by entering the corresponding number and follow the prompts.
 
