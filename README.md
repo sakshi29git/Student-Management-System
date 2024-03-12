@@ -1,7 +1,6 @@
 # Student Management System
  The Student Management System is a Java program that facilitates the management of student records, allowing users to add, update, delete, and display student information.
 
-
 # Features
 1. Add New Students: Allows users to add new student information, including name, roll number, standard, division, and school name.
 2. Update Student Information: Users can update existing student details by providing the roll number of the student to be updated.
